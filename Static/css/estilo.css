@@ -1,0 +1,19 @@
+.div {
+    margin-left: 100px;
+  }
+  p{
+    color: black;
+  }
+  
+  .div-topo{
+    margin-right: 200px !important;
+  }
+  
+  .titulo-site{
+    background-color:rgb(6, 70, 91); 
+    color: white;
+  }
+  
+  #div-geral{
+    
+  }
